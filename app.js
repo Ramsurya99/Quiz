@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import Questions from "./components/QuizComponent";
+import Questions from "./QuizComponent";
 
 const App = () =>{
     return (
