@@ -343,11 +343,11 @@ const Questions = () => {
                         display: "flex",
                         justifyContent: "center", 
                         alignItems: "center",
-                        width: "50vw", 
-                        height: "30vh", 
+                        width: "40vw", 
+                        height: "40vh", 
                       }}
                     >
-                <ul style={{ listStyle: "none", padding: "0" }}>
+                <ul style={{ listStyle: "none", padding: "0", margin: "0"}}>
                     {options.map((option, index) => (
                     <li key={index}>
                       <div className="col">
