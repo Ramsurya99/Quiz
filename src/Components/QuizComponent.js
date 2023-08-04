@@ -343,8 +343,8 @@ const Questions = () => {
                         display: "flex",
                         justifyContent: "center", 
                         alignItems: "center",
-                        width: "40vw", 
-                        height: "40vh", 
+                        width: "100vw", 
+                        height: "50vh", 
                       }}
                     >
                 <ul style={{ listStyle: "none", padding: "0", margin: "0"}}>
